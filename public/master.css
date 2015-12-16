@@ -1,0 +1,84 @@
+*{
+
+}
+body{
+	padding: 0 auto;
+	margin: 0 auto;
+
+}
+.wrapper{
+	width: 70em;
+	height: auto;
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+}
+.header{
+	width: 60em;
+	height: 10em;
+	/*border-bottom: 1px solid black;*/
+	position: relative;
+}
+.main-content{
+	width: 100%;
+	height: auto;
+	min-height: 45em;
+	/*border: 1px solid black;*/
+
+}
+.menu-holder{
+	width: 70em;
+	height: 4em;
+	/*border-bottom: 1px solid black;*/
+	/*border-top: 1px solid black;*/
+	margin-top: -4.1em;
+	/*background-color: black;*/
+}
+.hot-news{
+	/*background-color: blue;*/
+	height: 2em;
+	width: 70em;
+	position: relative;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+.menu{
+	background: black;
+	width: 70em;
+	height: 2em;
+}
+.side-menu{
+	width: 15em;
+	float: right;
+	height: 45em;
+	background-color: red;
+	position: relative;
+}
+.devider{
+	width: 1em;
+	height: 50em;
+	background-color: black;
+	position: relative;
+	float: right;
+
+}
+.content{
+	height: 45em;
+	width: 54em;
+	background-color: pink;
+	float: left;
+	position: relative;
+}
+.footer{
+	/*border-bottom: 1px solid black;*/
+	/*border-top: 1px solid black;*/
+	height: 5em;
+	background-color: green;
+	width: 70em;
+	/*position: relative;*/
+	margin-top: 4em;
+}
+.news{
+	border: 1px solid black;
+	height: 200px;
+	width: 200px;
+}
